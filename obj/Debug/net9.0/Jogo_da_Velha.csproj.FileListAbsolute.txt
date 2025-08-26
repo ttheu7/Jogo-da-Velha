@@ -1,0 +1,14 @@
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.exe
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.deps.json
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.runtimeconfig.json
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.dll
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\bin\Debug\net9.0\Jogo_da_Velha.pdb
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.AssemblyInfoInputs.cache
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.AssemblyInfo.cs
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.csproj.CoreCompileInputs.cache
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.dll
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\obj\Debug\net9.0\refint\Jogo_da_Velha.dll
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.pdb
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\obj\Debug\net9.0\Jogo_da_Velha.genruntimeconfig.cache
+C:\Users\Mathg\OneDrive\Desktop\Jogo_da_Velha\obj\Debug\net9.0\ref\Jogo_da_Velha.dll
